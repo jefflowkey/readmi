@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<!-- <p align="center">
-    <img width="200" src="https://github.com/AlexIrungu/AlexIrungu/blob/main/">
-</p> -->
+<p align="center">
+    <img width="200" src=https://avatars.githubusercontent.com/u/109278259?s=400&u=8fdf1d98fac3a2bc7741a557f1a2fef038b6dbcd&v=4">
+</p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=AlexIrungu.AlexIrungu)
+<!-- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=AlexIrungu.AlexIrungu&label=Profile%20Views&color=blueviolet&style=flat-square) -->
+
 [![Github](https://img.shields.io/github/followers/AlexIrungu?label=Follow&style=social)](https://github.com/AlexIrungu)
 
 <div size='20px'> Hi! My name is Alex. Thank You for taking the time to view my GitHub Profile :smile: 
