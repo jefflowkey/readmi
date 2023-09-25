@@ -4,22 +4,20 @@
 </p>
 
 <!-- Greeting and Introduction -->
-<h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
 <p align="center">Hi! My name is Alex. Thanks for visiting my GitHub Profile. 😄</p>
 
 <!-- About Me -->
 <h2 align="center"> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"> </h2>
-<p align="center"> I enjoy building full-stack applications and I'm skilled in SQLite, HTML,CSS, Postgresql, JavaScript, React, Ruby, and Rails. Fun fact: I'm a gamer. ⚡</p>
+<p align="center"> I enjoy building full-stack applications and I'm skilled in SQLite, Postgresql, JavaScript, React, Ruby, and Rails. Fun fact: I'm a gamer. ⚡</p>
 
 <!-- Image Section -->
-<h2 align="center"> Projects Showcase <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
+<!-- <h2 align="center"> Projects Showcase <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
 <p align="center">
-    <img src="https://i.ibb.co/qpcVRtP/Screenshot-from-2023-09-25-21-44-07.png" alt="Screenshot-from-2023-09-25-21-44-07" border="0" />
-   <img  src="https://i.ibb.co/52HTPNS/Screenshot-from-2023-09-25-21-47-13.png" alt="Screenshot-from-2023-09-25-21-47-13" border="0">
-    <!-- Add more project images as needed -->
-     <img src="https://i.ibb.co/yPWffwH/Screenshot-from-2023-09-25-21-51-41.png" alt="Screenshot-from-2023-09-25-21-51-41" border="0">">
+    <img width="400" src="https://danilscenictours.co.ke/project1-image.jpg" alt="Project 1">
+    <img width="400" src="https://example.com/project2-image.jpg" alt="Project 2">
    
-</p>
+</p> -->
 
 <!-- Skills -->
 <h2 align="center"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
