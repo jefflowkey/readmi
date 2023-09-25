@@ -1,88 +1,58 @@
-<!-- ### Hi there 👋
-
-<!--
-**AlexIrungu/AlexIrungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+<!-- Your Name and Profile Image -->
 <p align="center">
-    <img width="200" src=https://avatars.githubusercontent.com/u/109278259?s=400&u=8fdf1d98fac3a2bc7741a557f1a2fef038b6dbcd&v=4">
+    <img width="200" src="https://avatars.githubusercontent.com/u/109278259?s=400&u=8fdf1d98fac3a2bc7741a557f1a2fef038b6dbcd&v=4">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<!-- Greeting and Introduction -->
+<h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">Hi! My name is Alex. Thanks for visiting my GitHub Profile. 😄</p>
+
+<!-- About Me -->
+<h2 align="center"> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"> </h2>
+<p align="center"> I enjoy building full-stack applications and I'm skilled in SQLite, HTML,CSS, Postgresql, JavaScript, React, Ruby, and Rails. Fun fact: I'm a gamer. ⚡</p>
+
+<!-- Image Section -->
+<h2 align="center"> Projects Showcase <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
+<p align="center">
+    <img width="400" src="https://i.ibb.co/qpcVRtP/Screenshot-from-2023-09-25-21-44-07.png" alt="Screenshot-from-2023-09-25-21-44-07" border="0" />
+   <img width="400" src="https://i.ibb.co/52HTPNS/Screenshot-from-2023-09-25-21-47-13.png" alt="Screenshot-from-2023-09-25-21-47-13" border="0">
+    <!-- Add more project images as needed -->
+    <img width="400" <img src="https://i.ibb.co/yPWffwH/Screenshot-from-2023-09-25-21-51-41.png" alt="Screenshot-from-2023-09-25-21-51-41" border="0">">
+    <img width="400" src="https://example.com/project4-image.jpg" alt="Project 4">
 </p>
 
+<!-- Skills -->
+<h2 align="center"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<p align="center">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+</p>
 
-<!-- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=AlexIrungu.AlexIrungu&label=Profile%20Views&color=blueviolet&style=flat-square) -->
+<!-- Connect with Me -->
+<h2 align="center"> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/alex-muiruri-6a00b0150"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
+    <a href="https://www.twitter.com/_alexirungu"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a>
+    <a href="https://www.github.com/AlexIrungu"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
+</p>
 
-[![Github](https://img.shields.io/github/followers/AlexIrungu?label=Follow&style=social)](https://github.com/AlexIrungu)
+<!-- GitHub Stats -->
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=AlexIrungu&theme=tokyonight" alt="Alex's GitHub Activity Graph">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=tokyonight" alt="Alex GitHub Streak">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&theme=tokyonight" alt="Top Languages">
+</p>
 
-<div size='20px'> Hi! My name is Alex. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/564x/b5/e2/f9/b5e2f9a3b758c94fe0bb87c4fdc41cdf.jpg" />
-
-- 🔭 I’m currently working on CommuniCare Web App
-  
-- 🌱 I’m currently learning Rails
-  
-- 👯 I’m looking to collaborate on any FullStack applications
-  
-- 💬 Ask me about SQLite, Postgresql, JavaScript, React, Ruby, Rails
-  
-- ⚡ Fun fact: I'm a Gamer.
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<!-- <a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=HTML&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> -->
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/AlexIrungu?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a> -->
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/alex-muiruri-6a00b0150'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/_alexirungu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<!-- <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
-<!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-<a href = 'https://www.github.com/AlexIrungu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Alex's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlexIrungu&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight) | ![Alex GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Alex Irungu](https://github.com/AlexIrungu)
-
-Last Edited on: 04/27/2023
+<!-- Jokes Card -->
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
+</p>
