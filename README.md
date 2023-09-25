@@ -14,11 +14,11 @@
 <!-- Image Section -->
 <h2 align="center"> Projects Showcase <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
 <p align="center">
-    <img width="400" src="https://i.ibb.co/qpcVRtP/Screenshot-from-2023-09-25-21-44-07.png" alt="Screenshot-from-2023-09-25-21-44-07" border="0" />
-   <img width="400" src="https://i.ibb.co/52HTPNS/Screenshot-from-2023-09-25-21-47-13.png" alt="Screenshot-from-2023-09-25-21-47-13" border="0">
+    <img src="https://i.ibb.co/qpcVRtP/Screenshot-from-2023-09-25-21-44-07.png" alt="Screenshot-from-2023-09-25-21-44-07" border="0" />
+   <img  src="https://i.ibb.co/52HTPNS/Screenshot-from-2023-09-25-21-47-13.png" alt="Screenshot-from-2023-09-25-21-47-13" border="0">
     <!-- Add more project images as needed -->
-    <img width="400" <img src="https://i.ibb.co/yPWffwH/Screenshot-from-2023-09-25-21-51-41.png" alt="Screenshot-from-2023-09-25-21-51-41" border="0">">
-    <img width="400" src="https://example.com/project4-image.jpg" alt="Project 4">
+     <img src="https://i.ibb.co/yPWffwH/Screenshot-from-2023-09-25-21-51-41.png" alt="Screenshot-from-2023-09-25-21-51-41" border="0">">
+   
 </p>
 
 <!-- Skills -->
