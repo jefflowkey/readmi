@@ -32,24 +32,47 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
-  
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,sqlite,postgresql" />
-  
-  <h3>Data Science</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  </p>
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,heroku" />
+ <h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /></a>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" /></a>
+</p>
+
+<h3 align="center">Data Science</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" /></a>
+</p>
 </div>
+
+
+
 
 <br/>
 
