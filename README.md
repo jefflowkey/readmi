@@ -39,7 +39,13 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,sqlite,postgresql" />
   
   <h3>Data Science</h3>
-  <img src="https://skillicons.dev/icons?i=jupyter,numpy,pandas" />
+  <p>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  </p>
   
   <h3>Tools & Technologies</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,heroku" />
