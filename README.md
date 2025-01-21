@@ -1,72 +1,81 @@
-<!-- Your Name and Profile Image -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Alex+Irungu+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/109278259?s=400&u=8fdf1d98fac3a2bc7741a557f1a2fef038b6dbcd&v=4">
+  <img src="https://komarev.com/ghpvc/?username=AlexIrungu&label=Profile%20views&color=6366F1&style=flat" alt="profile views" />
 </p>
 
-<!-- Greeting and Introduction -->
-<h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
-<p align="center">Hi! My name is Alex. Thanks for visiting my GitHub Profile. 😄</p>
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/109278259?s=400&u=8fdf1d98fac3a2bc7741a557f1a2fef38b6dbcd&v=4" alt="profile" style="border-radius: 50%; border: 4px solid #6366F1;" />
+</div>
 
-<!-- Badges -->
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-    <img src="https://img.shields.io/badge/Matplotlib-013220?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+<br/>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/alex-muiruri-6a00b0150"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/_alexirungu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/AlexIrungu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-<!-- About Me -->
-<h2 align="center"> About Me <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50px"> </h2>
-<p align="center"> I enjoy building full-stack applications and I'm skilled in SQLite, Postgresql, JavaScript, React, Ruby, and Rails. Fun fact: I'm a gamer. ⚡</p>
+<br/>
 
-<!-- Skills -->
-<h2 align="center"> Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
-<p align="center">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-    <!-- <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matplotlib.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jupyter.svg">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/anaconda.svg"> -->
-</p>
+<div align="center">
+  <h2>💫 About Me</h2>
+  <p>
+    Full Stack Developer passionate about crafting elegant solutions to complex problems. With expertise in both front-end and back-end development, I create scalable applications that deliver exceptional user experiences. When I'm not coding, you can find me gaming or exploring new technologies. 🎮
+  </p>
+</div>
 
-<!-- Connect with Me -->
-<h2 align="center"> Connect with Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/alex-muiruri-6a00b0150"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
-    <a href="https://www.twitter.com/_alexirungu"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a>
-    <a href="https://www.github.com/AlexIrungu"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
-</p>
+<br/>
 
-<!-- GitHub Stats -->
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AlexIrungu&theme=tokyonight" alt="Alex's GitHub Activity Graph">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=tokyonight" alt="Alex GitHub Streak">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&theme=tokyonight" alt="Top Languages">
-</p>
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
 
-<!-- Jokes Card -->
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
-</p>
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,sqlite,postgresql" />
+  
+  <h3>Data Science</h3>
+  <img src="https://skillicons.dev/icons?i=jupyter,numpy,pandas" />
+  
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,heroku" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="200"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak" height="200"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexIrungu&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexIrungu&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/output/snake.svg" alt="Snake animation" />
+</div>
