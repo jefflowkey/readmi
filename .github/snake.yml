@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: AlexIrungu
+          github_user_name: jefflowkey
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
