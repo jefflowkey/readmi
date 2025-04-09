@@ -81,7 +81,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=jefflowkey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="200"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefflowkey&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak" height="200"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jefflowkey&theme=highcontrast&date_format=j%20M%5B%20Y%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
